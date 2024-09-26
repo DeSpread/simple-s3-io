@@ -1,0 +1,4 @@
+s3:
+  region_name: ''
+  bucket: ''
+  folder: ''
